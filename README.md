@@ -3,4 +3,4 @@ A simple Discord Corona Virus Cases Status
 
 [ ! ] Selfbot against Discord rules, please becareful
 
-> Made By Ethical#2021
+> Made By Ryanz#7919
