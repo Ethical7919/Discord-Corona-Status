@@ -1,6 +1,6 @@
 import time, requests
 
-tok3n = "" # Put Yout Token Here
+tok3n = "" # Put Your Token Here
 
 while True:
     corona_api = "https://coronavirus-19-api.herokuapp.com/countries/world"
